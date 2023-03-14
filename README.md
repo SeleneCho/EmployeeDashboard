@@ -1,5 +1,6 @@
 # Employee Dashboard
-#### This is a simple dashboard where a user can add, update, and delete information about all employees
+#### This is a simple dashboard where a user can add, update, and delete information about all employees  
+
 ![Employee_Dashboard](https://user-images.githubusercontent.com/84310302/223053777-5090cabc-b48a-492e-a91f-a2dc2a1d6d7c.png)
 
 
@@ -10,8 +11,14 @@ This project was stated as learning purpose and following stacks are mainly used
    * <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
    * <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
    * <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+   * <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+   * <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+   * <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>
+   * <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>
 
-     
+## Live Demo
+[Live Demo-Frontent](http://employeefront.s3-website-ap-southeast-2.amazonaws.com/) 
+  * Deployed in AWS using RDS, EC2, and S3
   
 
 ## Getting Starged
